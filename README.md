@@ -1,4 +1,4 @@
-# 🏦 Loan Prediction Model Analysis
+# 🏦 Loan Prediction Model
 This repository contains a Machine Learning model that predicts whether a loan application is likely to be approved based on various applicant features such as income, credit history, loan amount, and more.
 
 ## 📌 Objective
